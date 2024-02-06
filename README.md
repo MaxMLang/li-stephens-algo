@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/maxmlang/DiscordBot_Uni">
-    <img src="images/chromosome-painting.jpg" alt="Logo" width="300" height="300">
+    <img src="images/chromosome-painting.jpg" alt="" width="300" height="300">
   </a>
 </div>
 
