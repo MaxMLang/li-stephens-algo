@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/maxmlang/DiscordBot_Uni">
+  <a href="https://www.mun.ca/biology/scarr/FISH_chromosome_painting.html">
     <img src="images/chromosome-painting.jpg" alt="" width="300" height="300">
   </a>
 </div>
